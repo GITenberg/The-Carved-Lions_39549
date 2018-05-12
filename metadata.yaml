@@ -1,0 +1,49 @@
+_repo: The-Carved-Lions_39549
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leslie
+    - Brooke, Leonard Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2012-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dreams -- Juvenile fiction'
+- !lcsh 'Teacher-student relationships -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Loneliness -- Juvenile fiction'
+title: The Carved Lions
+url: http://www.gutenberg.org/ebooks/39549
